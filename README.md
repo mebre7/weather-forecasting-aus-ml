@@ -12,8 +12,3 @@ The dataset contains approximately 10 years of daily weather observations. Key f
 * **Pressure:** Atmospheric pressure.
 * **Wind:** Speed and direction.
 * **Target:** `RainTomorrow` (Yes/No).
-
-## 🛠️ Installation & Usage
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/your-username/australia-rain-prediction.git](https://github.com/your-username/australia-rain-prediction.git)
