@@ -40,3 +40,6 @@ Thumbs.db
 
 /.ipynb_checkpoints
 /notebook/.ipynb_checkpoints
+.agents
+.codex
+.*
