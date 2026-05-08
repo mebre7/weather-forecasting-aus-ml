@@ -37,6 +37,7 @@ Thumbs.db
 # Model files (you may track later if small)
 *.pkl
 *.joblib
+test.py
 
 /.ipynb_checkpoints
 /notebook/.ipynb_checkpoints
