@@ -116,3 +116,5 @@ The Logistic Regression model was trained on ~10 years of Australian weather dat
 - The `Date` column was excluded as it is not directly predictive of tomorrow's rain.
 - `RainTomorrow` (target) was excluded from the feature set during training.
 - Missing values in wind direction columns (`WindGustDir`, `WindDir9am`, `WindDir3pm`) were treated as a separate category by the encoder — handle these before encoding to avoid extra `nan` columns.
+
+> The model can be further improved by exploring more complex algorithms (e.g., Random Forest, XGBoost) and performing hyperparameter tuning.
